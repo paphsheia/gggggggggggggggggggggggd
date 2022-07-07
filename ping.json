@@ -2,9 +2,9 @@
     "query": [
         {
             "number": 1,
-            "name": "Arizona Bonusnik",
-            "ip": "46.174.53.247",
-            "port": 7777,
+            "name": "Krosh",
+            "ip": "194.61.3.167",
+            "port": 2037,
             "online": 400,
             "maxplayers": 1000,
             "password": false,
